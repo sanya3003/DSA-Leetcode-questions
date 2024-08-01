@@ -30,6 +30,7 @@
 ## Graph
 |  |
 | ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->

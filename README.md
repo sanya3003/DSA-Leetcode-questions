@@ -11,10 +11,12 @@
 | [0002-add-two-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |

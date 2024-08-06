@@ -24,6 +24,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -96,4 +97,5 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2050-count-good-numbers) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Graph
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->

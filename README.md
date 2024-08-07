@@ -12,6 +12,7 @@
 | [0007-reverse-integer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
+| [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2050-count-good-numbers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -41,6 +42,7 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -114,6 +116,7 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 ## Greedy
 |  |
 | ------- |

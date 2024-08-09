@@ -155,4 +155,16 @@
 | [0137-single-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

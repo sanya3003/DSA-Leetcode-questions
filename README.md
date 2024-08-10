@@ -39,6 +39,7 @@
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
@@ -170,6 +171,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -185,4 +187,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

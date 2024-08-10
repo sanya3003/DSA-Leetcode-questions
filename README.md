@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
@@ -128,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
@@ -190,6 +194,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search

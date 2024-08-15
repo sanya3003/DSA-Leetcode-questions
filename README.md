@@ -44,6 +44,7 @@
 | [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
@@ -155,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting

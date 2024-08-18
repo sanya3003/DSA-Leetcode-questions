@@ -35,6 +35,7 @@
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |

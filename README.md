@@ -15,6 +15,7 @@
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [2050-count-good-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2050-count-good-numbers) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
@@ -120,6 +122,7 @@
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -239,4 +242,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->

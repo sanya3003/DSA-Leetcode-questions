@@ -58,6 +58,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
@@ -172,6 +175,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |

@@ -79,6 +79,7 @@
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0664-strange-printer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0664-strange-printer) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -117,6 +118,7 @@
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |

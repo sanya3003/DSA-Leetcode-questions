@@ -42,6 +42,7 @@
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
@@ -215,6 +217,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |

@@ -50,6 +50,7 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |

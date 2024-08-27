@@ -44,6 +44,7 @@
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
@@ -196,6 +197,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |

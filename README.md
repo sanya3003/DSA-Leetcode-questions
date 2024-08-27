@@ -44,6 +44,7 @@
 | [0048-rotate-image](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |

@@ -54,6 +54,7 @@
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +163,7 @@
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0664-strange-printer) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -193,6 +195,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -222,6 +225,7 @@
 | [0045-jump-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |

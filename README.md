@@ -71,6 +71,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -104,11 +105,13 @@
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
@@ -327,6 +330,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 ## Game Theory
 |  |
 | ------- |

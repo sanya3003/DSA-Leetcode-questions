@@ -79,6 +79,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -129,12 +130,14 @@
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |

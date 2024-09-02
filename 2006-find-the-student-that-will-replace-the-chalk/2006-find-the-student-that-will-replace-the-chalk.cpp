@@ -5,6 +5,9 @@ public:
         long long totalChalkSum = 0;// total chalks required in one iteration
         for(int &chalkReq : chalk){
             totalChalkSum += chalkReq;
+            if(totalChalkSum>k){
+                break;
+            }
         }
     // number of full iteration possible = k/totalChalkSum
 

@@ -327,6 +327,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -336,6 +337,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
@@ -370,10 +372,12 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

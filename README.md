@@ -64,6 +64,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -156,6 +158,7 @@
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |

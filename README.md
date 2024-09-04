@@ -345,6 +345,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -381,6 +382,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |

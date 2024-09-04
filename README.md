@@ -159,6 +159,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -339,6 +341,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -348,6 +351,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
@@ -389,6 +393,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -399,4 +404,5 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

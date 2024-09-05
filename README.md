@@ -50,6 +50,7 @@
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0137-single-number-ii) |
@@ -150,6 +151,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
@@ -404,6 +406,7 @@
 | [0101-symmetric-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -422,6 +425,7 @@
 | [0101-symmetric-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -432,4 +436,8 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->

@@ -239,6 +239,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -284,6 +285,7 @@
 | [0078-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -406,6 +408,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -423,6 +426,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |

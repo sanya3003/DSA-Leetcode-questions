@@ -27,6 +27,7 @@
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2050-count-good-numbers) |
+| [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -148,6 +150,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |

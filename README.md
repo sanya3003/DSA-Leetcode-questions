@@ -8,6 +8,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
+| [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -386,6 +387,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -404,6 +406,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
@@ -466,6 +469,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -497,6 +501,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |

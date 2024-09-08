@@ -8,6 +8,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math

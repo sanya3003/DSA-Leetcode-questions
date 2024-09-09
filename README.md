@@ -10,6 +10,7 @@
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -95,6 +96,7 @@
 | [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -149,6 +151,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |

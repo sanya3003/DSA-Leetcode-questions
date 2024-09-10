@@ -14,17 +14,12 @@ public:
         if(head== NULL || head->next == NULL ){
             return head;
         }
-        ListNode* currNode = head;
-        ListNode* nextNode = head->next;
-        while(nextNode){
-            ListNode* temp = new ListNode(__gcd(currNode->val, nextNode->val));
-            currNode ->next = temp;
-            temp->next = nextNode;
+        ListNode* temp = insertGreatestCommonDivisors(head->next);
+        ListNode* gcdNode = new ListNode(__gcd(head->val, head->next->val));
 
-            currNode = nextNode;
-            nextNode = nextNode ->next;
+        gcdNode->next=temp;
+        head->next = gcdNode;
 
-        }
         return head;
     }
 };

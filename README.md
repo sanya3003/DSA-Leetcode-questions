@@ -101,6 +101,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -325,6 +326,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
 |  |
 | ------- |
@@ -549,4 +551,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->

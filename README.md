@@ -22,6 +22,7 @@
 | [0050-powx-n](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
@@ -43,6 +44,7 @@
 | [0050-powx-n](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2050-count-good-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
@@ -120,6 +122,7 @@
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -236,6 +239,7 @@
 | [0152-maximum-product-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0650-2-keys-keyboard) |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |

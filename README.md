@@ -122,6 +122,7 @@
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -579,4 +580,16 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

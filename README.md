@@ -120,6 +120,7 @@
 | [0020-valid-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0179-largest-number) |
@@ -241,6 +242,7 @@
 | [0045-jump-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0139-word-break) |

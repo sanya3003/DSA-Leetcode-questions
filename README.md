@@ -136,6 +136,7 @@
 | [0664-strange-printer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1170-shortest-common-supersequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -252,6 +253,7 @@
 | [0664-strange-printer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
+| [1170-shortest-common-supersequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |

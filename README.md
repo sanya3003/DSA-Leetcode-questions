@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0231-power-of-two) |
@@ -118,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0079-word-search) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0072-edit-distance) |
@@ -327,6 +330,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0135-candy) |

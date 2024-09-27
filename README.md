@@ -81,6 +81,7 @@
 | [0539-minimum-time-difference](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -416,6 +418,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
+| [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0937-online-stock-span) |
 ## Queue
@@ -629,9 +632,11 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->

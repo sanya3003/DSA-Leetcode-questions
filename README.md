@@ -9,6 +9,7 @@
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -84,6 +85,7 @@
 | [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0906-walking-robot-simulation) |
@@ -420,6 +422,7 @@
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -427,6 +430,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0859-design-circular-deque) |
 ## Monotonic Stack
 |  |
 | ------- |

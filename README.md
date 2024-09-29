@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0859-design-circular-deque) |
@@ -213,6 +214,7 @@
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -419,6 +421,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0432-all-oone-data-structure](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
@@ -521,6 +524,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 ## Tree
 |  |

@@ -164,6 +164,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -210,6 +211,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -434,6 +436,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |

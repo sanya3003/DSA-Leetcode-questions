@@ -162,6 +162,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -342,6 +343,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -375,6 +377,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -435,6 +438,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design

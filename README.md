@@ -155,6 +155,7 @@
 | [0664-strange-printer](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -377,6 +378,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -436,6 +438,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

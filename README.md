@@ -126,6 +126,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -388,6 +389,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -552,6 +554,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
 ## Game Theory
 |  |

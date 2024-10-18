@@ -120,6 +120,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
@@ -377,6 +378,7 @@
 | [0131-palindrome-partitioning](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0282-expression-add-operators) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
@@ -703,4 +706,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

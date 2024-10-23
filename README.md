@@ -266,6 +266,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -543,6 +544,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -563,6 +565,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -630,6 +633,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -663,6 +667,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

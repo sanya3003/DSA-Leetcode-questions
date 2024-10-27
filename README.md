@@ -107,6 +107,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
@@ -213,6 +214,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -315,6 +317,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |

@@ -117,6 +117,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -324,6 +325,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -389,6 +391,7 @@
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
@@ -419,6 +422,7 @@
 | [0890-lemonade-change](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |

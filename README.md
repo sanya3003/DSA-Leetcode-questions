@@ -792,4 +792,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

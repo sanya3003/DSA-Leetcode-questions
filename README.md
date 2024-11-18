@@ -836,4 +836,5 @@
 | [1942-primary-department-for-each-employee](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->

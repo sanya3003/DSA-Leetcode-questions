@@ -226,6 +226,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1325-path-with-maximum-probability) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
@@ -645,6 +646,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -886,4 +888,8 @@
 | [2057-count-salary-categories](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2127-employees-whose-manager-left-the-company) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->

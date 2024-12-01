@@ -113,6 +113,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -312,6 +313,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -421,6 +423,7 @@
 | [0539-minimum-time-difference](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -438,6 +441,7 @@
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1923-sentence-similarity-iii) |
@@ -455,6 +459,7 @@
 | [0731-my-calendar-ii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |

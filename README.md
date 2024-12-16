@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0725-split-linked-list-in-parts) |
@@ -424,6 +425,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0539-minimum-time-difference) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -805,6 +808,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -908,4 +912,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

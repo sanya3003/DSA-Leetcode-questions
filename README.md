@@ -42,6 +42,7 @@
 | [2716-prime-subtraction-operation](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -711,6 +714,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/2803-modify-graph-edge-weights) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sanya3003/DSA-Leetcode-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Game Theory
 |  |
 | ------- |
